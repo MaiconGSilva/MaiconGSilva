@@ -1,3 +1,3 @@
 ### Olá, Meu nome e Maicon 
-- 🔭 Eu trabalho como programador Java.
-- 🌱 No momento estou estudando para a certificação java, OCA-Oracle Certified Associate.
+- 🔭 Eu trabalho como prograador Java.
+- 🌱 No momento estou estudando para  tirar minha certificação  Java, OCA-Oracle Certified Associate.
