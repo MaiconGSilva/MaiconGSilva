@@ -1,6 +1,6 @@
 ### Olá, Meu nome e Maicon 
 - 🔭 Eu trabalho como programador Java.
-- 🌱 No momento estou estudando para  tirar certificação  Java, OCA-Oracle Certified Associate.
+
 
 <div>
   <a href="https://github.com/MaiconGSilva">
