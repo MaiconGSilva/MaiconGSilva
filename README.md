@@ -1,5 +1,5 @@
 ### Olá, Meu nome e Maicon 
-- 🔭 Eu trabalho como programador Java.
+- 🔭 
 
 
 <div>
